@@ -1,6 +1,6 @@
 <img src="https://media1.giphy.com/media/tlGD7PDy1w8fK/giphy.gif?cid=ecf05e47e4f0e672deb980c552f25a34c427e2801a27f016&rid=giphy.gif" width="250">
 
-_Hey ! Je suis un développeur front-end enchanté de vous rencontrer !_
+_Hey ! Bienvenue sur mon GitHub !_
 
 **Qui suis-je ?**
 
