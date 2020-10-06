@@ -1,8 +1,8 @@
-### GitHub de 飛ぶ dim 🛫
+<img src="https://media1.giphy.com/media/tlGD7PDy1w8fK/giphy.gif?cid=ecf05e47e4f0e672deb980c552f25a34c427e2801a27f016&rid=giphy.gif" width="250">
 
-_Développeur front-end_
+_Hey ! Je suis un développeur front-end enchanté de vous rencontrer !_
 
----
+**Qui suis-je ?**
 
 Depuis mes 16 ans je crée des sites Internet pour des amis et des communautés. J'ai tout de même débuté une formation de pilote pour devenir pilote de ligne. 👨‍✈️
 
@@ -15,8 +15,6 @@ J'ai un parcours de vie un peu chahuté, je n'ai jamais rien lâché ✨ et à 2
 - ✍️ J'espère bientôt publier des écrits beaux et intéressants.
 - 🎼 Et la musique c'est le bien.
 
----
-
 **Quelques technologies à mon actif :**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -27,8 +25,4 @@ J'ai un parcours de vie un peu chahuté, je n'ai jamais rien lâché ✨ et à 2
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
----
-
-<a href="" style="inline"><img src="https://media1.giphy.com/media/tlGD7PDy1w8fK/giphy.gif?cid=ecf05e47e4f0e672deb980c552f25a34c427e2801a27f016&rid=giphy.gif" width="250"></a>
-
-<a href="" style="inline"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobudim&layout=compact" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobudim&layout=compact" />
