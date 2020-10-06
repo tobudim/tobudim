@@ -31,7 +31,4 @@ J'ai un parcours de vie un peu chahuté, je n'ai jamais rien lâché ✨ et à 2
 
 #### <img src="https://media1.giphy.com/media/tlGD7PDy1w8fK/giphy.gif?cid=ecf05e47e4f0e672deb980c552f25a34c427e2801a27f016&rid=giphy.gif" width="250">
 
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=tobudim&show_icons=true&theme=vue"/>
-</a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobudim&layout=compact" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobudim&layout=compact" />
